@@ -1,6 +1,6 @@
 # street-tree-census
 
-В файле main находится алгоритм для обработки данных и обучения моделей по датасету из NY 2015 Street Tree Census .
+В файле main находится алгоритм для обработки данных и обучения моделей по датасету NY 2015 Street Tree Census .
 
 Сам датасет необходимо скачать и разместить в корне проекта (гит хаб не позволил загрузить большой файл) ( https://www.kaggle.com/datasets/new-york-city/ny-2015-street-tree-census-tree-data/data )
 
